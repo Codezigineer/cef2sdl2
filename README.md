@@ -3,4 +3,4 @@ CEF rendering to SDL2 surface based on [cef3-sdl2](https://github.com/gotnospiri
 
 # Building
 
-See BUILD.md for details.
+Run cmake.
